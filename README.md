@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/opnsense-wlan-wpa-line">opnsense-wlan-wpa-line</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/opnsense-wlan-wpa-line"><strong>https://abraxaslabs.tech/research/opnsense-wlan-wpa-line</strong></a>
+</p>
+
 
 # opnsense-wlan-wpa-line
 
